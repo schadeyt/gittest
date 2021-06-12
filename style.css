@@ -1,0 +1,44 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+/* BEGIN (write your solution here) */
+.About-me {
+  margin-bottom: 32px;
+  text-align: center;
+}
+.paragraph {
+  margin-bottom: 12px;
+}
+.heading {
+  font-weight: 400;
+  }
+.main-heading {
+  font-weight: 400;
+  font-size: 32px;
+  border-bottom: 1px;
+  border-bottom-color: #595959;
+  margin-bottom: 8px;
+}
+.header-title {
+  font-weight: 400;
+  font-size: 36px;
+  margin-bottom: 0px;
+}
+.header-title-on-header {
+  font-weight: 400;
+  font-size: 18px;
+  border-bottom: none;
+  margin-bottom: 10px;
+}
+.footer-me {
+  margin-top: 64px;
+  text-align: center;
+}
+/* END */
